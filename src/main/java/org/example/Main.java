@@ -20,7 +20,7 @@ public class Main {
         Complex c6 = c1.div(c2);
         System.out.println("c1 / c2: " + c6.str());
 
-////fg
+////fger
         //нахождение сравнения двух комплексных чисел
         System.out.println("z1 equals с2: " + c1.equals(c2));
 
